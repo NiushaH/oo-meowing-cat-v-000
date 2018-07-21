@@ -14,3 +14,5 @@ attr_accessor :name
     @name
   end 
   
+end 
+end 
