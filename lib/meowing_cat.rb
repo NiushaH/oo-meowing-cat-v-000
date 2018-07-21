@@ -6,11 +6,11 @@ attr_accessor :name
   end 
 
 
-  def name=(name)
-    @name = name
+  def name=(Cat_name)
+    @name = Cat_name
   end 
   
-  def name(name)
+  def name(Cat_name)
     @name
   end 
   
