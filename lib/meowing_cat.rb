@@ -9,7 +9,7 @@ attr_accessor :name
     @name
   end 
   
-  def meow
+  def meow(name)
     puts "Meow!"
   end 
 
