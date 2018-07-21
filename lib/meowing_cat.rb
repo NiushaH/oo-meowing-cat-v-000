@@ -6,7 +6,7 @@ def name=(Cat_name)
 end 
 
 def name(Cat_name)
-  @name = Cat_name
+  @name
 end 
 
 
