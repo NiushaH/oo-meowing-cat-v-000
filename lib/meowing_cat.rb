@@ -10,7 +10,7 @@ attr_accessor :name
     @name = name
   end 
   
-  def name(name)
+  def name
     @name
   end 
   
